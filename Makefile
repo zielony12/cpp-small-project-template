@@ -15,4 +15,4 @@ $(TARGET) : $(SRC)
 	$(CXX) $(OBJ) -o $(TARGET)
 
 clean :
-	rm Test.o main.o
+	rm $(OBJ)
