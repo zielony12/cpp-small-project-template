@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Test.hpp"
+#include <sample/Test.hpp>
 
 Test::Test(std::string x) {
 	this->x = x;

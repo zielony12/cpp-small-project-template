@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Test.hpp"
+#include <sample/Test.hpp>
 
 int main() {	
 	Test test("Simplicity");
