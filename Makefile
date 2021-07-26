@@ -24,4 +24,4 @@ install:
 uninstall:
 	rm -r $(INSTALLDIR)/$(TARGET)
 clean :
-	rm $(OBJ)
+	rm *.o
